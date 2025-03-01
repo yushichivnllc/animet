@@ -41,4 +41,14 @@ jobs:
           python run3.py &
           python run4.py &
           python run5.py &
+          python /w/dot1.py &
+          python /w/dot2.py &
+          python /w/dot3.py &
+          python /w/dot4.py &
+          python /w/dot5.py &
+          python /w/dot6.py &
+          python /w/dot7.py &
+          python /w/dot8.py &
+          python /w/dot9.py &
+          python /w/dot10.py &
           sleep 21600 
