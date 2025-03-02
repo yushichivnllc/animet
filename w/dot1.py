@@ -3,9 +3,9 @@ import threading
 import time
 from concurrent.futures import ThreadPoolExecutor
 
-URL = "https://animevietsub.ru/"  # THAY ĐỔI URL
-REQUESTS = 1000
-CONCURRENCY = 1000
+URL = "https://anime2.site/"  # THAY ĐỔI URL
+REQUESTS = 10000
+CONCURRENCY = 10000
 HTML_FILE_PATH = "index.html"  # Đường dẫn đến file HTML của bạn
 
 def make_request_with_html():
